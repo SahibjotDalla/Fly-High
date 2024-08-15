@@ -14,3 +14,6 @@
 
 ### 📫 Feedback & Support
 I’d love to hear your feedback and suggestions! Feel free to reach out via [Email](mailto:SahibjotDalla@gmail.com).
+
+### 📝 Note
+This is my first ever game developed in Python using Pygame
